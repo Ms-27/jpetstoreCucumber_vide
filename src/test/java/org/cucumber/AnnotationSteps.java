@@ -1,50 +1,3 @@
-Skip to content
-
-
-
-Why GitHub?  
-Enterprise 
-Explore  
-Marketplace 
-Pricing  
-  
-Sign in 
-Sign up 
-
-
-
-formationTF 
-/
-jpetsore_cucumber 
-Watch 
-0 
-Star 
-0 
-Fork 
-0 
-Code 
-Issues 0 
-Pull requests 0 
-Projects 0 
-Security 
-Insights 
-Dismiss 
-Join GitHub today
-GitHub is home to over 40 million developers working together to host and review code, manage projects, and build software together.
-Sign up 
-Branch: master 
-jpetsore_cucumber/src/test/java/org/cucumber/AnnotationSteps.java 
-Find file 
-Copy path 
- Quentin Dusser new commit 
-ae5aa21 on 6 Aug 2019 
-0 contributors 
-57 lines (45 sloc) 1.82 KB 
-Raw
-Blame
-History
-
-
 package org.cucumber;
 
 
@@ -158,18 +111,3 @@ public class AnnotationSteps {
 	}
 
 }
-
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-
